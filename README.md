@@ -1,1 +1,2 @@
-# programming
+# About
+In this repository is the design of the algorithms [of my solved programming exercises in the first year of my cs degree](https://github.com/rayniel95/c-sharp-little-projects). My professors taught to me to think abstractly, I design and test my algorithm (an algorithm not need to be in a programming language) in paper and if it work I write the code. For know more about this excellent technique for programming I suggest to read Introduction to Algorithms written by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein.
